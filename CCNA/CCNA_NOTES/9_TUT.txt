@@ -4,7 +4,7 @@
 
 # CURRENT: CCNA 200-301
 https://www.9tut.com/ccna-new-questions-part-8
--- Question 64
+-- Question 73
 
 # CURRENT 9 TUT LAB
 -- https://www.9tut.com/voice-vlan-lldp-sim
